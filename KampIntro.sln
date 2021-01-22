@@ -9,11 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{23278D33-2658-4733-B56B-3FAF616DBD0F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{6AC17D05-2AEE-484C-92A1-38320F9EF7FA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{BB54CEA2-E5FA-477B-818E-B4DA3DFEC30D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeğerVeRefaransTipler", "DeğerVeRefaransTipler\DeğerVeRefaransTipler.csproj", "{49D4B7CF-4457-4B0F-BE9D-64D67FE47728}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{E93A9EC9-20C9-4B0C-8F5D-FD6067BE0CDA}"
 EndProject
