@@ -9,15 +9,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{23278D33-2658-4733-B56B-3FAF616DBD0F}"
 EndProject
+<<<<<<<<< Temporary merge branch 1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{6AC17D05-2AEE-484C-92A1-38320F9EF7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{BB54CEA2-E5FA-477B-818E-B4DA3DFEC30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeğerVeRefaransTipler", "DeğerVeRefaransTipler\DeğerVeRefaransTipler.csproj", "{49D4B7CF-4457-4B0F-BE9D-64D67FE47728}"
+=========
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{6AC17D05-2AEE-484C-92A1-38320F9EF7FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{BB54CEA2-E5FA-477B-818E-B4DA3DFEC30D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeğerVeRefaransTipler", "DeğerVeRefaransTipler\DeğerVeRefaransTipler.csproj", "{49D4B7CF-4457-4B0F-BE9D-64D67FE47728}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{E93A9EC9-20C9-4B0C-8F5D-FD6067BE0CDA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{F130B6D6-7A70-418E-9A95-F5B0A9EE332D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{F130B6D6-7A70-418E-9A95-F5B0A9EE332D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericIntro\GenericsIntro.csproj", "{99C3CD43-3FC3-428D-8A17-275A13B10B8B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{E1112A26-7286-4A9D-928A-6AD59CD2FA68}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{0B0B157F-1685-4D0D-88E8-BD6BFC299DBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericIntro\GenericsIntro.csproj", "{99C3CD43-3FC3-428D-8A17-275A13B10B8B}"
+>>>>>>>>> Temporary merge branch 2
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +47,20 @@ Global
 		{23278D33-2658-4733-B56B-3FAF616DBD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23278D33-2658-4733-B56B-3FAF616DBD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23278D33-2658-4733-B56B-3FAF616DBD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC17D05-2AEE-484C-92A1-38320F9EF7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC17D05-2AEE-484C-92A1-38320F9EF7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC17D05-2AEE-484C-92A1-38320F9EF7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC17D05-2AEE-484C-92A1-38320F9EF7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB54CEA2-E5FA-477B-818E-B4DA3DFEC30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB54CEA2-E5FA-477B-818E-B4DA3DFEC30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB54CEA2-E5FA-477B-818E-B4DA3DFEC30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB54CEA2-E5FA-477B-818E-B4DA3DFEC30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D4B7CF-4457-4B0F-BE9D-64D67FE47728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D4B7CF-4457-4B0F-BE9D-64D67FE47728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D4B7CF-4457-4B0F-BE9D-64D67FE47728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D4B7CF-4457-4B0F-BE9D-64D67FE47728}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<<<< Temporary merge branch 1
+=========
 		{E93A9EC9-20C9-4B0C-8F5D-FD6067BE0CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E93A9EC9-20C9-4B0C-8F5D-FD6067BE0CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E93A9EC9-20C9-4B0C-8F5D-FD6067BE0CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -49,14 +73,7 @@ Global
 		{99C3CD43-3FC3-428D-8A17-275A13B10B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99C3CD43-3FC3-428D-8A17-275A13B10B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99C3CD43-3FC3-428D-8A17-275A13B10B8B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E1112A26-7286-4A9D-928A-6AD59CD2FA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1112A26-7286-4A9D-928A-6AD59CD2FA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1112A26-7286-4A9D-928A-6AD59CD2FA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1112A26-7286-4A9D-928A-6AD59CD2FA68}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B0B157F-1685-4D0D-88E8-BD6BFC299DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B0B157F-1685-4D0D-88E8-BD6BFC299DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B0B157F-1685-4D0D-88E8-BD6BFC299DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B0B157F-1685-4D0D-88E8-BD6BFC299DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>>>> Temporary merge branch 2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
